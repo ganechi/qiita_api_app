@@ -9,3 +9,7 @@
 
 - `yarn dev`
 - Open [http://localhost:3000](http://localhost:3000) with your browser
+
+## TODO
+- [ ] 最低ラインのアプリ作成
+- [ ] 他APIとつなげて、マッシュアップしたアプリに(chatGPTとか良さそう)
